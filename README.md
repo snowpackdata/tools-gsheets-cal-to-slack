@@ -4,7 +4,7 @@ An automated reminder system that sends daily notifications from Google Sheets t
 More importantly, this simple process can be easily generalized into any sort of GSheets -> Slack API integration you want to build!!
 Get creative and have fun with it...
 
-![Example Slack notification](<img width="639" alt="Screenshot 2025-03-29 at 12 22 03" src="https://github.com/user-attachments/assets/8293366e-2783-495b-a6ad-234e97582795" />)
+![Example Slack notification](https://github.com/user-attachments/assets/8293366e-2783-495b-a6ad-234e97582795)
 
 ## Features
 
